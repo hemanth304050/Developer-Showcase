@@ -1,74 +1,52 @@
-# Hi there! 👋 I'm [D Hemanth Kumar]
+<div align="center">
 
-### 🚀 Full-Stack Software Engineer & AI Systems Developer
+# 👋 Hi, I'm Hemanth
 
-<p align="center">
-  <img src="Assets/output.gif" width="100%" alt="Superhero Developer Animation" />
-</p>
+### 🚀 Full Stack Developer & UI/UX Designer
 
----
+**Building modern web experiences • Developing scalable applications • Exploring AI**
 
-## 🌐 Connect With Me
+<br>
 
-<p align="center">
-  <a href="https://github.com/your-github-username" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/your-instagram-username" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="YOUR_INSTAGRAM_URL">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
----
+<br><br>
 
-## 🛠️ About Me / Currently Working On
+<!-- SUPERHERO ANIMATION -->
+<img src="./Assets/output.gif" width="600" alt="Hemanth Developer Superhero Animation">
 
-* **Current Role:** Full-Stack & AI Systems Developer building scalable web applications and intelligent solutions.
-* **Tech Stack:** Python, Django, FastAPI, React, AWS, Docker, PostgreSQL, MongoDB, Redis, LLMs, Prompt Engineering, Vector DBs, System Design.
-* **Learning Goals:** Advanced Distributed Systems, Large Language Model Fine-Tuning, and Multi-Agent Orchestration Frameworks.
-* **Ask Me About:** Python backend architecture, high-performance REST/GraphQL APIs, integrating generative AI/LLMs into production applications, or web development workflows.
+<br>
 
----
+### 💻 Code. Create. Deploy. Repeat.
 
-## 🧰 Skills Showcase
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express" alt="Backend Skills" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,ts,tailwind" alt="Frontend Skills" />
-</p>
-
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github" alt="DevOps Skills" />
-</p>
-
-### Databases & Caching
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql" alt="Databases" />
-</p>
-
-### AI / ML & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,vscode,postman,vim" alt="AI and Tools" />
-</p>
+</div>
 
 ---
 
-## 📈 GitHub Analytics
+# 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1f2937&title_color=60a5fa&icon_color=3b82f6&text_color=e2e8f0" alt="GitHub Stats" />
-</p>
+I'm a **Full Stack Developer and UI/UX Designer** passionate about creating modern, responsive and user-focused digital experiences.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f2937&title_color=60a5fa&text_color=e2e8f0" alt="Top Languages" />
-</p>
+I enjoy turning ideas into working products — from designing interfaces and developing web applications to working with databases, cloud technologies and emerging AI tools.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=true&background=1f2937&sideLabels=true" alt="GitHub Streak" />
-</p>
-
+```text
+🎨 UI/UX Design
+💻 Full Stack Development
+🌐 Web Applications
+📱 Application Development
+☁️ Cloud & DevOps
+🤖 AI & Emerging Technologies
