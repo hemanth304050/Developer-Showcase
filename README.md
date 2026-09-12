@@ -1,370 +1,88 @@
-<div align="center">
-
-# 👋 Hi, I'm Dhannodi Hemanth Kumar
-
-### 💻 Full Stack Developer & UI/UX Designer
-
-**Crafting digital experiences with code and creativity**
-
-<p>
-  <a href="#-about-me">About</a> •
-  <a href="#-skills">Skills</a> •
-  <a href="#-projects">Projects</a> •
-  <a href="#-github-analytics">GitHub</a> •
-  <a href="#-contact">Contact</a>
-</p>
-
-<br>
-
-<!-- Add your animation here -->
-<img src="./Assets/output.gif" width="600" alt="Developer Animation">
-
-<br><br>
-
-<a href="https://github.com/hemanth304050">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/dhannodi-hemanth-kumar-5b758b258">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/dhk_chintu">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="mailto:hemanthheman86@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
-
----
-
-# 🏠 Home
 
 <div align="center">
 
-## 🚀 Available for Freelance Work
+<!-- ANIMATED HEADER -->
+<img src="Assets/output.gif" alt="Dhannodi Hemanth Kumar Banner" width="100%"/>
 
-### Hi, Developer 👋
+# Hi there, I'm Dhannodi Hemanth Kumar 👋
 
-I'm a passionate **Full Stack Developer** with expertise in creating
-responsive and user-friendly web applications.
+### Full Stack Developer & UI/UX Designer
 
-I specialize in:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+responsive+web+apps;Turning+ideas+into+products;Always+learning+something+new" alt="Typing SVG" />
 
-**Web Development • App Development • UI/UX Design**
-
-<br>
-
-| 📈 Experience | 🚀 Projects |
-|:---:|:---:|
-| **1+ Years** | **30+ Completed** |
+<p>
+  <a href="https://hemanth-portfolio.example.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/hemanth304050" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dhannodi-hemanth-kumar-5b758b258" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/dhk_chintu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:hemanthheman86@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+### 🚀 About Me
 
-## Full Stack Developer & UI/UX Designer
+- 🎓 Full Stack Developer with a focus on responsive, user-friendly web applications
+- 💻 Comfortable across the stack — from React front ends to Node/Django/FastAPI back ends
+- 📊 Also enjoy data-driven projects — analytics, ML, and deep learning
+- 📍 Based in Kadapa, Andhra Pradesh, India
+- 🟢 Currently available for freelance work
+- 💬 Ask me about: Full Stack Development, System Design, Prompt Engineering, LLMs
 
-### Crafting digital experiences with code and creativity
+---
 
-I'm a passionate Full Stack Developer with expertise in creating
-responsive and user-friendly web applications.
+### 🛠️ Skills Showcase
 
-### 💡 What I Do
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=html,css,js,react" /></p>
 
-<table>
-<tr>
-<td width="33%" align="center">
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=nodejs,mongodb,express,mysql" /></p>
 
-### 🌐 Web Development
+**Tools & Cloud**
+<p><img src="https://skillicons.dev/icons?i=git,docker,aws,figma" /></p>
 
-Building responsive and dynamic websites.
+**Programming & Databases**
+<p><img src="https://skillicons.dev/icons?i=java,python,mysql" /></p>
 
-</td>
+---
 
-<td width="33%" align="center">
+### 📌 Featured Projects
 
-### 📱 App Development
+| Project | Description | Tags |
+|---|---|---|
+| **E-Learning Platform** | Comprehensive online learning platform with live classes and course management | `Web App` |
+| **DHK FOODIES Delivery App** | Full stack food delivery application | `Full Stack` |
+| **Heart Disease Analysis** | Data analytics project on cardiac health indicators | `Data Analytics` |
+| **CardioMind-ECG** | Deep learning model for ECG signal analysis | `Deep Learning` |
+| **Real Estate Platform** | Full stack property listing and management platform | `Full Stack` |
+| **Rapido Booking System** | Ride booking mini project | `Mini Project` |
 
-Creating cross-platform mobile applications.
+🔗 See the full write-ups and live demos on my **[Portfolio](https://hemanth-portfolio.example.com)**.
 
-</td>
+---
 
-<td width="33%" align="center">
+### 📊 GitHub Analytics
 
-### 🎨 UI/UX Design
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hemanth304050&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth304050&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Designing intuitive user interfaces.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth304050&theme=tokyonight&hide_border=true" />
+</p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hemanth304050&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
-### 📊 Portfolio Statistics
+---
 
 <div align="center">
 
-| 🏆 Projects | 🤝 Happy Clients | ⭐ Satisfaction |
-|:---:|:---:|:---:|
-| **30+** | **30+** | **99%** |
-
-</div>
-
----
-
-# 🛠️ Skills
-
-## 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-`HTML5` • `CSS3` • `JavaScript` • `React`
-
----
-
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,java" />
-</p>
-
-`Node.js` • `Express.js` • `Python` • `Java`
-
----
-
-## 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
-
-`MongoDB` • `MySQL` • `PostgreSQL` • `SQL`
-
----
-
-## ☁️ Tools & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,vscode" />
-</p>
-
-`Git` • `Docker` • `AWS` • `Figma` • `VS Code`
-
----
-
-## 💻 Programming & Concepts
-
-```text
-Java
-Python
-OOPs
-DBMS
-SQL
-
-
----
-
-🚀 Projects
-
-01. 🎓 E-Learning Platform
-
-> A comprehensive online learning platform with live classes, course management, and interactive quizzes.
-
-
-
-Tech Stack
-
-React.js Node.js MongoDB WebRTC
-
-<div align="center"><a href="#">
-<img src="https://img.shields.io/badge/Live_Preview-00C853?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a><a href="#">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
-</a></div>
----
-
-02. 🍔 DHK FOODIES — Delivery App
-
-> A full-stack food ordering web application with authentication, menu browsing, and order management features.
-
-
-
-Tech Stack
-
-React.js Node.js MongoDB Express
-
-<div align="center"><a href="https://github.com/hemanth304050/DHK-FOODIES-Delivery-App">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
-</a></div>
----
-
-03. ❤️ Heart Disease Analysis
-
-> A comprehensive data analytics project analyzing 1000 patient records to uncover patterns in heart disease risk using Python, machine learning, and interactive visualizations.
-
-
-
-Tech Stack
-
-Python Scikit-learn Flask Bootstrap
-
-<div align="center"><a href="https://github.com/hemanth304050/Heart-Disease-Analysis">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
-</a></div>
----
-
-04. 🫀 CardioMind-ECG
-
-> Deep Temporal Attention Networks for Real-Time Stress, Arrhythmia, and Emotion Recognition from Wearable ECG.
-
-
-
-Tech Stack
-
-PyTorch Signal Processing TinyML Python
-
-<div align="center"><a href="https://github.com/hemanth304050/CardioMind-ECG">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
-</a></div>
----
-
-05. 🏠 Real Estate Platform
-
-> A modern real estate platform with virtual tours, advanced property search, and agent dashboard.
-
-
-
-Tech Stack
-
-Next.js Express PostgreSQL Maps API
-
-<div align="center"><a href="https://dhkhousehunt.netlify.app/">
-<img src="https://img.shields.io/badge/Live_Preview-00C853?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a><a href="https://github.com/hemanth304050/HouseHunt">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
-</a></div>
----
-
-06. 🏍️ Rapido Booking System
-
-> A Core Java console-based booking application featuring user authentication, ride booking, vehicle suggestions, distance-based fare calculation, and text file data storage.
-
-
-
-Tech Stack
-
-Java OOPs File Handling
-
-<div align="center"><a href="https://github.com/hemanth304050/RapidoRental">
-<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white">
-</a></div>
----
-
-🤖 Currently Learning
-
-<div align="center">Technology	Focus
-
-🐍 Python	Advanced Development
-⚛️ React	Modern Web Applications
-☁️ AWS	Cloud Development
-🐳 Docker	DevOps
-🤖 AI / ML	Intelligent Applications
-🧠 LLMs	Generative AI
-✍️ Prompt Engineering	AI Applications
-🔎 Vector Databases	AI / RAG
-🏗️ System Design	Scalable Applications
-
-
-</div>
----
-
-💡 Ask Me About
-
-<p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></p>
----
-
-📊 GitHub Analytics
-
-<div align="center"><a href="https://github.com/hemanth304050"><img height="180"
-src="https://github-readme-stats.vercel.app/api?username=hemanth304050&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth304050&layout=compact&theme=tokyonight&hide_border=true">
-
-</a><br><br>
-
-<img
-src="https://streak-stats.demolab.com?user=hemanth304050&theme=tokyonight&hide_border=true">
-
-<br><br>
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=hemanth304050&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8">
-
-</div>
----
-
-📈 Contribution Graph
-
-<div align="center"><img
-src="https://github-readme-activity-graph.vercel.app/graph?username=hemanth304050&theme=tokyo-night&hide_border=true">
-
-</div>
----
-
-🌐 Portfolio
-
-<div align="center">🚀 Want to see my complete portfolio?
-
-<a href="YOUR_PORTFOLIO_WEBSITE"><img src="https://img.shields.io/badge/🚀_VIEW_FULL_PORTFOLIO-2563EB?style=for-the-badge"></a></div>
----
-
-📫 Contact
-
-Let's Connect
-
-> Let's create something amazing together!
-
-
-
-Feel free to reach out if you have a question, want to collaborate, or just want to connect.
-
-📍 Location
-
-Kadapa, Andhra Pradesh, India
-
-📧 Email
-
-<a href="mailto:hemanthheman86@gmail.com">
-hemanthheman86@gmail.com
-</a>📱 Phone
-
-+91 7702807424
-
-
----
-
-<div align="center"><a href="https://github.com/hemanth304050">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a><a href="https://www.linkedin.com/in/dhannodi-hemanth-kumar-5b758b258">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-</a><a href="https://www.instagram.com/dhk_chintu">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
-</a><a href="mailto:hemanthheman86@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
-</a><br><br>
-
-<img src="https://komarev.com/ghpvc/?username=hemanth304050&label=Profile%20Views&style=for-the-badge"><br><br>
-
-⚡ Code • Create • Innovate • Deploy
-
-Thanks for visiting my profile! ⭐
+📫 **Let's connect** — hemanthheman86@gmail.com · Kadapa, Andhra Pradesh, India
 
 </div>
