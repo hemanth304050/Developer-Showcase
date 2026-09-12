@@ -21,7 +21,7 @@
 - 🎓 Full Stack Developer with a focus on responsive, user-friendly web applications
 - 💻 Comfortable across the stack — from React front ends to Node/Django/FastAPI back ends
 - 📊 Also enjoy data-driven projects — analytics, ML, and deep learning
-- 📍 Based in Kadapa 🔁 Bangalore, Andhra Pradesh, India
+- 📍 Based in Kadapa, Andhra Pradesh, India
 - 🟢 Currently available for freelance work
 - 💬 Ask me about: Full Stack Development, System Design, Prompt Engineering, LLMs
 
