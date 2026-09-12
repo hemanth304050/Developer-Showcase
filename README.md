@@ -1,9 +1,4 @@
 
-<div align="center">
-
-<!-- ANIMATED HEADER -->
-<img src="Assets/output.gif" alt="Dhannodi Hemanth Kumar Banner" width="100%"/>
-
 # Hi there, I'm Dhannodi Hemanth Kumar 👋
 
 ### Full Stack Developer & UI/UX Designer
