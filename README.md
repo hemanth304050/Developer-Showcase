@@ -1,6 +1,6 @@
 ## Hi there, I'm Dhannodi Hemanth Kumar 👋
 
-### Full Stack Developer & UI/UX Designer
+#### Full Stack Developer & UI/UX Designer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+responsive+web+apps;Turning+ideas+into+products;Always+learning+something+new" alt="Typing SVG" />
 
