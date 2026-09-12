@@ -11,7 +11,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+responsive+web+apps;Turning+ideas+into+products;Always+learning+something+new" alt="Typing SVG" />
 
 <p>
-  <a href="https://hemanth-portfolio.example.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://dhkmyportfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/hemanth304050" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dhannodi-hemanth-kumar-5b758b258" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/dhk_chintu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -60,7 +60,7 @@
 | **Real Estate Platform** | Full stack property listing and management platform | `Full Stack` |
 | **Rapido Booking System** | Ride booking mini project | `Mini Project` |
 
-🔗 See the full write-ups and live demos on my **[Portfolio](https://hemanth-portfolio.example.com)**.
+🔗 See the full write-ups and live demos on my **[Portfolio](https://dhkmyportfolio.netlify.app/)**.
 
 ---
 
