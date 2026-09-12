@@ -47,12 +47,13 @@
 
 | Project | Description | Tags |
 |---|---|---|
-| **E-Learning Platform** | Comprehensive online learning platform with live classes and course management | `Web App` |
-| **DHK FOODIES Delivery App** | Full stack food delivery application | `Full Stack` |
-| **Heart Disease Analysis** | Data analytics project on cardiac health indicators | `Data Analytics` |
-| **CardioMind-ECG** | Deep learning model for ECG signal analysis | `Deep Learning` |
-| **Real Estate Platform** | Full stack property listing and management platform | `Full Stack` |
-| **Rapido Booking System** | Ride booking mini project | `Mini Project` |
+| **[E-Learning Platform](https://github.com/hemanth304050/E-Learning-Platform)** | Comprehensive online learning platform with live classes and course management | `Web App` |
+| **[DHK FOODIES Delivery App](https://github.com/hemanth304050/DHK-Foodies-Delivery-App)** | Full stack food delivery application | `Full Stack` |
+| **[Heart Disease Analysis](https://github.com/hemanth304050/Heart-Disease-Analysis)** | Data analytics project on cardiac health indicators | `Data Analytics` |
+| **[CardioMind-ECG](https://github.com/hemanth304050/CardioMind-ECG)** | Deep learning model for ECG signal analysis | `Deep Learning` |
+| **[Real Estate Platform](https://github.com/hemanth304050/Real-Estate-Platform)** | Full stack property listing and management platform | `Full Stack` |
+| **[Rapido Booking System](https://github.com/hemanth304050/Rapido-Booking-System)** | Ride booking mini project | `Mini Project` |
+| **[Bank Management System](https://github.com/hemanth304050/Bank-Management-System)** | Console-based bank management system in C | `C Programming` |
 
 🔗 See the full write-ups and live demos on my **[Portfolio](https://dhkmyportfolio.netlify.app/)**.
 
